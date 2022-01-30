@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/online-store-app/static/css/main.b6193452.css",
-    "main.js": "/online-store-app/static/js/main.34efd1ac.js",
-    "static/js/787.40b9cf6f.chunk.js": "/online-store-app/static/js/787.40b9cf6f.chunk.js",
-    "static/media/GameNote.png": "/online-store-app/static/media/GameNote.98c3b4908828d6a2617c.png",
-    "index.html": "/online-store-app/index.html",
-    "main.b6193452.css.map": "/online-store-app/static/css/main.b6193452.css.map",
-    "main.34efd1ac.js.map": "/online-store-app/static/js/main.34efd1ac.js.map",
-    "787.40b9cf6f.chunk.js.map": "/online-store-app/static/js/787.40b9cf6f.chunk.js.map"
+    "main.css": "/Online-store-app/static/css/main.b6193452.css",
+    "main.js": "/Online-store-app/static/js/main.9b25c8e1.js",
+    "static/js/787.40b9cf6f.chunk.js": "/Online-store-app/static/js/787.40b9cf6f.chunk.js",
+    "static/media/GameNote.png": "/Online-store-app/static/media/GameNote.98c3b4908828d6a2617c.png",
+    "index.html": "/Online-store-app/index.html",
+    "main.b6193452.css.map": "/Online-store-app/static/css/main.b6193452.css.map",
+    "main.9b25c8e1.js.map": "/Online-store-app/static/js/main.9b25c8e1.js.map",
+    "787.40b9cf6f.chunk.js.map": "/Online-store-app/static/js/787.40b9cf6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6193452.css",
-    "static/js/main.34efd1ac.js"
+    "static/js/main.9b25c8e1.js"
   ]
 }
